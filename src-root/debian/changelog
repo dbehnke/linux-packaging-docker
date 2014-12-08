@@ -1,0 +1,5 @@
+hello (0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Dave Behnke <dbehnke74@gmail.com>  Sun, 07 Dec 2014 19:25:47 +0000
